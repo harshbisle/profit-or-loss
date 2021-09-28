@@ -62,7 +62,7 @@ export default function App() {
         <h1>Stocks Yay or Nay?</h1>
         <div>
           <a
-            href="https://github.com/harshbisle?tab=repositories"
+            href="https://github.com/harshbisle/profit-or-loss"
             target="_blank"
             rel="noopener noreferrer"
           >
